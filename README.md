@@ -16,4 +16,4 @@ En este repositorio se indican las herramientas utilizadas para la transmisión 
 permitir la reproducción de la experiencia en otras instituciones.
 
 ## Contenido
--[Transmisión] ()
+-[Transmisión] (https://github.com/romm32/cazdecod/tree/main/transmission)
