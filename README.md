@@ -16,4 +16,9 @@ En este repositorio se indican las herramientas utilizadas para la transmisión 
 permitir la reproducción de la experiencia en otras instituciones.
 
 ## Contenido
--[Transmisión] (https://github.com/romm32/cazdecod/tree/main/transmission)
+- [Transmisión](https://github.com/romm32/cazdecod/tree/main/transmission): Se adjuntan los esquemas de GNU Radio
+utilizados para la transmisión y se describen las dependencias necesarias para poder ejecutarlos.
+- [Creación de imágenes](https://github.com/romm32/cazdecod/tree/main/images): Se describe el proceso de creación de
+imágenes para la transmisión, y se detallan algunos aspectos a tener en cuenta para transmitirlas.
+- [Recepción](https://github.com/romm32/cazdecod/tree/main/reception): Se describen las aplicaciones y dispositivos utilizados
+para la recepción de las imágenes.
